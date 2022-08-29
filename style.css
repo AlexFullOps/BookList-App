@@ -4,13 +4,23 @@
     box-sizing: border-box;
 }
 body{
-    background: #000;
+    background: #fff;
+}
+#content{
+    padding: 50px;
+    border: 3px solid #0275d8;
 }
 h1{
-    color: yellow;
+    color: rgb(26, 13, 218);
 }
 Label{
-    color: yellow;
+    color:  rgb(26, 13, 218);
     font-size: 16px;
     font-weight: 700;
+}
+table{
+    margin-top: 30px;
+}
+th{
+    color: #0275d8;
 }
